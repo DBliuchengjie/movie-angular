@@ -1,0 +1,17 @@
+<div class="row detailRow">
+  <div class="col-xs-6">
+    <img src="{{curMovie.imgUrl}}" alt="{{curMovie.name}}" title="{{curMovie.name}}">
+  </div>
+  <div class="col-xs-6">
+    <ul class="list-group">
+      <li class="list-group-item list-group-item-info">《《{{curMovie.name}}》》</li>
+      <li class="list-group-item list-group-item-info">国 家：{{curMovie.country}}</li>
+      <li class="list-group-item list-group-item-info">类 别：{{curMovie.type.join(' ')}}</li>
+      <li class="list-group-item list-group-item-info">上映时间：{{curMovie.showUpDate}}</li>
+      <li class="list-group-item list-group-item-info">导 演：{{curMovie.director}}</li>
+      <li class="list-group-item list-group-item-info">主 演：{{curMovie.mainActor.join(' ')}}</li>
+      <li class="list-group-item list-group-item-info">简 介：{{curMovie.contentDetail}}</li>
+      <button type="button" class="btn btn-primary" ng-click="back()">返回上一级</button>
+    </ul>
+  </div>
+</div>

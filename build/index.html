@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="backSystem" ng-controller="appCtrl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>电影信息系统</title>
+    <link rel="stylesheet" href="/build/prd/css/bootstrap.css">
+    <link rel="stylesheet" href="/build/prd/css/my.css">
+</head>
+
+<body>
+    <div class="header">
+        <img src="/images/logo.svg" ui-sref="homePG" ng-click="backToHome()">
+    </div>
+    <div class="content">
+        <div class="left"  >
+            <ul class="list-group">
+                <a ng-repeat="movie in movieArr" class="list-group-item {{movie[2]}}" ui-sref="{{movie[1]}}" ng-click="isActive($index)">{{movie[0]}}</a>
+            </ul>
+        </div>
+        <div class="right">
+            <ui-view></ui-view>
+        </div>
+    </div>
+     
+    <script src="/build/prd/libs/jquery-3.1.0.js"></script>
+    <script src="/build/prd/libs/bootstrap.js"></script>
+    <script src="/build/prd/libs/angular.min.js"></script>
+    <script src="/build/prd/libs/angular-ui-router.js"></script>
+
+    <script src="/build/prd/js/app.js"></script>
+    <script src="/build/prd/js/controller/commonCtrl.js"></script>
+    <script src="/build/prd/js/controller/commonDetailCtrl.js"></script>
+    <script src="/build/prd/js/controller/homeCtrl.js"></script>
+
+    <script src="/build/prd/js/directive/list.js"></script>
+    <script src="/build/prd/js/directive/detail.js"></script>
+</body>
+
+</html>

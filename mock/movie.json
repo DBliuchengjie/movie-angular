@@ -1,0 +1,20 @@
+{
+    "movie": [
+        {
+            "name": "",
+            "year": ,
+            "country": "",
+            "type": [
+                ""
+            ],
+            "imgUrl": "",
+            "language": "",
+            "showUpDate": "",
+            "director": "",
+            "mainActor": [
+                ""
+            ],
+            "contentDetail": ""
+        }
+    ]
+}

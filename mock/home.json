@@ -1,0 +1,100 @@
+{
+    "movie": [
+        [
+            [
+                "/images/home1.jpg",
+                "胡丽叶塔",
+                "西班牙",
+                1
+            ],
+            [
+                "/images/home2.jpg",
+                "Hands of Stone",
+                "美国",
+                2
+            ],
+            [
+                "/images/home3.jpg",
+                "Just Another Version of You",
+                "新西兰",
+                3
+            ],
+            [
+                "/images/home4.jpg",
+                "Chevalier",
+                "希腊",
+                4
+            ],
+            [
+                "/images/home5.jpg",
+                "I Am the Pretty Thing That Lives in the House",
+                "美国",
+                5
+            ]
+        ],
+        [
+            [
+                "/images/home6.jpg",
+                "THE NET",
+                "韩国",
+                6
+            ],
+            [
+                "/images/home7.jpg",
+                "Ouija",
+                "美国",
+                7
+            ],
+            [
+                "/images/home8.jpg",
+                "Legendes d'automne",
+                "美国",
+                8
+            ],
+            [
+                "/images/home9.jpg",
+                "小姐",
+                "韩国",
+                9
+            ],
+            [
+                "/images/home10.jpg",
+                "Army of One",
+                "美国",
+                10
+            ]
+        ],
+        [
+            [
+                "/images/home11.jpg",
+                "六弄咖啡馆",
+                "中国大陆",
+                11
+            ],
+            [
+                "/images/home12.jpg",
+                "零日网络战",
+                "美国",
+                12
+            ],
+            [
+                "/images/home13.jpg",
+                "Food Choices",
+                "美国",
+                13
+            ],
+            [
+                "/images/home14.jpg",
+                "Star Trek Beyond",
+                "美国",
+                14
+            ],
+            [
+                "/images/home15.jpg",
+                "蝙蝠侠大战超人",
+                "美国",
+                15
+            ]
+        ]
+    ]
+}

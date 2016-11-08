@@ -1,0 +1,266 @@
+{
+    "movie":[
+        
+        {
+            "id": 1,
+            "name": "胡丽叶塔",
+            "year": 2016,
+            "country": "西班牙",
+            "type": [
+                "剧情"
+            ],
+            "imgUrl": "/images/home1.jpg",
+            "language": "西班牙语",
+            "showUpDate": "2016-04-08",
+            "director": "佩德罗·阿莫多瓦",
+            "mainActor": [
+                ["阿德丽安娜·尤加特","艾玛·苏雷兹"]
+            ],
+            "contentDetail": "胡丽叶塔(艾玛·苏亚雷兹、阿德里安娜·尤加特 饰)与她的女儿安蒂亚住在马德里。两个人在沉默中默默承受着失去作为胡丽叶塔的丈夫，安蒂亚的父亲周安(丹尼尔·格劳 饰)的疼痛，然而这份疼痛并没有让她们变得更亲近反而让她们彼此逐渐疏远。<br/>当安蒂亚十八岁生日的时候离开了她的母亲却没有给她任何理由。胡丽叶塔企图用各种方法找到她的女儿，但是无数次找寻后唯一发现的是自己对女儿所知甚少。<br/>《胡丽叶塔》提及母性在逆境中的抗争，同时它也在讲述命运，责难与怨怼使人们离开他们所爱的人，就像那些人从来都在其生命中不具备任何意义，甚至从未存在过一样。影片改编自诺贝尔奖获得者爱丽斯·芒罗的小说。"
+        },
+        {
+            "id": 2,
+            "name": "Hands of Stone",
+            "year": 2016,
+            "country": "美国/巴拿马",
+            "type": [
+                "剧情",
+                "传记",
+                "动作"
+            ],
+            "imgUrl": "/images/home2.jpg",
+            "language": "英语/西班牙语",
+            "showUpDate": "2016-08-26",
+            "director": "乔纳森·加库波维兹",
+            "mainActor": [
+                "埃德加·拉米雷兹","罗伯特·德尼罗"
+            ],
+            "contentDetail": "委内瑞拉男星埃德加·拉米雷斯在片中出演著名的巴拿马拳手罗伯特·杜兰，而罗伯特德尼罗饰演他的训练师，同样很有名气的雷·阿赛尔。<br/>上个世纪70年代，杜兰是拳击界最可怕的人物。野性的眼神、黑色的头发、凶恶的战斗作风，使得杜兰在轻量级比赛中是个让对方感到恐怖的人物。从1972 年到1979年，杜兰在拳坛上势不可挡。他在至少三个级别的比赛中获得过冠军。这位巴拿马拳手是世界上唯一一位跨越五个不同十年还在战斗的拳手。杜兰2002年退休时已经51岁了。本片围绕杜兰与另外一位著名拳手舒格·雷·伦纳德（Sugar Ray Leonard）的一场传奇之战展开。1980年11月25日，这两位拳手在路易斯安那州第二次相逢，而在此7个月前两人的第一次比赛中，杜兰险胜伦纳德，尽管那场比赛很悬，但是场外裁判一致判定杜兰胜出。在第二场对峙中，本来结局会大不一样，但是杜兰在第八轮比赛中队裁判说出“放弃”，让伦纳德获得了本场比赛的胜利。从此，杜兰在本土成为最不受欢迎的拳手，此后他花了很多年时间来重建自己的声誉。"
+        },
+        {
+            "id": 3,
+            "name": "Just Another Version of You",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "纪录片"
+            ],
+            "imgUrl": "/images/home3.jpg",
+            "language": "英语",
+            "showUpDate": "2016-01",
+            "director": ["Heidi Ewing","Rachel Grady"],
+            "mainActor": [
+                "Norman Lear"
+            ],
+            "contentDetail": "How did a poor Jewish kid from Connecticut bring us Archie Bunker and become one of the most successful television producers ever? Norman Lear brought provocative subjects like war, poverty, and prejudice into 120 million homes every week. He proved that social change was possible through an unlikely prism: laughter. World Premiere. DAY ONE FILM"
+        },
+        {
+            "id": 4,
+            "name": "Chevalier",
+            "year": 2015,
+            "country": "希腊",
+            "type": [
+                "喜剧"
+            ],
+            "imgUrl": "/images/home4.jpg",
+            "language": "希腊语",
+            "showUpDate": "2015-08-12",
+            "director": "阿锡娜·瑞秋·特桑阿里",
+            "mainActor": [
+                "约戈斯·肯德罗斯",
+                "帕诺斯·科罗尼斯"
+            ],
+            "contentDetail": "在爱琴海面，一架豪华游艇上，六个人在出海捕鱼，决定玩一个有趣的游戏，充满挑战和冒险。赢的人将会是最强的男人，他将获得“海上骑士”指环。"
+        },
+        {
+            "id": 5,
+            "name": "I Am the Pretty Thing That Lives in the House",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "惊悚"
+            ],
+            "imgUrl": "/images/home5.jpg",
+            "language": "英语",
+            "showUpDate": "2016-08-03",
+            "director": "Oz Perkins",
+            "mainActor": [
+                "露丝·威尔森"
+            ],
+            "contentDetail": "A young nurse takes care of elderly author who lives in a haunted house."
+        },
+        {
+            "id": 6,
+            "name": "网",
+            "year": 2016,
+            "country": "韩国",
+            "type": [
+                "剧情"
+            ],
+            "imgUrl": "/images/home6.jpg",
+            "language": "韩语",
+            "showUpDate": "2016-10-06",
+            "director": "金基德",
+            "mainActor": [
+                "柳昇范",
+                "李源根"
+            ],
+            "contentDetail": "《网》讲述了不得已在海上漂流至韩国一路历经苦难的朝鲜渔夫的故事。曾主演《柏林》《不当交易》等片的柳承范饰演渔夫一角，与之展开对手戏的韩国情报员由李元根饰演。曾出演金基德导演前作《一对一》的安智慧和崔桂华也同时加盟。"
+        },
+        {
+            "id": 7,
+            "name": "Ouija",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "惊悚",
+                "恐怖"
+            ],
+            "imgUrl": "/images/home7.jpg",
+            "language": "英语",
+            "showUpDate": "2016-10-21",
+            "director": "迈克·弗拉纳根",
+            "mainActor": [
+                "安娜丽丝·巴索 "
+            ],
+            "contentDetail": "为了要将召唤来的恶灵送回阴间，这一家人必须去面对他们内心最恐惧的事物，古老的碟仙板将再次召唤出恶灵。"
+        },
+        {
+            "id": 8,
+            "name": "Legendes d'automne",
+            "year": 1994,
+            "country": "美国",
+            "type": [
+                "爱情"
+            ],
+            "imgUrl": "/images/home8.jpg",
+            "language": "英语",
+            "showUpDate": "1994-12-16",
+            "director": ["爱德华·瑞克"],
+            "mainActor": [
+                "布拉德·皮特"
+            ],
+            "contentDetail": "骑兵上校威廉厌倦了战争，他带着全家来到西部荒原，在一处偏僻的 山区开垦牧场。上校的妻子因为无法忍受艰苦的环境而抛夫弃子回到了东 部，威廉上校独自一人肩负起了养育三个儿子的重担。<br.>在艰苦的环境中三兄弟渐渐长大，他们手足情深但性格却大不相同。 大哥艾尔弗莱德为人忠厚，办事认真；三弟塞缪尔是位理想主义者，深 受父亲的宠爱；而老二特里斯坦则是一位狂放不羁的人，他自由奔放，常 与印第安人交往，从他们那里学到了不少东西。父子四人在一个纯男性的 世界里过着淡泊的生活。"
+        },
+        {
+            "id": 9,
+            "name": "小姐",
+            "year": 2016,
+            "country": "韩国",
+            "type": [
+                "惊悚","剧情","同性"
+            ],
+            "imgUrl": "/images/home9.jpg",
+            "language": "韩语",
+            "showUpDate": "2016-05-14",
+            "director": ["朴赞郁"],
+            "mainActor": [
+                "金敏喜","河正宇"
+            ],
+            "contentDetail": "影片讲述了1930年日本殖民统治朝鲜时期，继承巨额财产的贵族小姐、觊觎其财产的骗子伯爵、受雇于伯爵接近小姐的侍女以及小姐的监护人之间围绕金钱和爱情发生的故事。<br/>在日本帝国主义时期下的朝鲜，从小被作为艳情插画小说家上月教明（赵震雄饰）收养的贵族小姐秀子（金敏喜饰），在外人看来是个受人羡慕的温室之花，却不知她其实是被姨父上月教明培养接替自杀而亡的姨母演绎的电影下载朗读会的当家花旦。而冒充伯爵的骗子藤原（河正宇饰）邀请在贼屋长大的淑熙（金泰璃饰）作为小姐的侍女来个里应外合，骗婚之后将小姐关进精神病院并侵吞她的财产。淑熙为了钱爽快的答应了伯爵的要求，由女管家佐佐木（金海淑饰）带她进入了幽深的大名然而在照顾敏感纤细的小姐的同时，两人渐渐产生了情愫。 随着眼神和身体接触所带来微妙的反应，两人也最终结合并冲破层层礼教和阻拦终成眷属乘坐逃往上海的客船。"
+        },
+        {
+            "id": 10,
+            "name": "Army of One",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "喜剧"
+            ],
+            "imgUrl": "/images/home10.jpg",
+            "language": "英语",
+            "showUpDate": "2016-11-04",
+            "director": ["拉里·查尔斯"],
+            "mainActor": [
+                "尼古拉斯·凯奇","温迪·麦丽登·康薇"
+            ],
+            "contentDetail": "据国外媒体报道，国人非常熟悉的尼古拉斯·凯奇(Nicolas Cage)曾演过很多脾气古怪的角色，他在新片《一个人的军队》(Army of One)中又将饰演一个怪人。这次他将携手三俗喜剧片导演拉里·查尔斯(Larry Charles)，饰演一位自信心爆棚，希望独自擒获基地组织头目本-拉登的家伙。<br/>　　《一个人的军队》改编自2010年GQ杂志上由克里斯·希斯(Chris Heath)撰写的一篇文章。故事的主人公加里·福克纳(Gary Faulkner)是科罗拉多的一位普通建筑工人，还蹲过大牢。这位自信心爆棚的家伙希望靠一己之力抓获本-拉登，为此他还曾多次试图潜入巴基斯坦和阿富汗。"
+        },
+        {
+            "id": 11,
+            "name": "六弄咖啡馆",
+            "year": 2016,
+            "country": "中国大陆",
+            "type": [
+                "剧情","爱情"
+            ],
+            "imgUrl": "/images/home11.jpg",
+            "language": "汉语",
+            "showUpDate": "2016-07-15",
+            "director": ["吴子云"],
+            "mainActor": [
+                "董子健","颜卓灵"
+            ],
+            "contentDetail": "电影《六弄咖啡馆》改编自藤井树（吴子云）的同名畅销小说，同时导演和编剧也是由原著作者出任，刘杰担任影片监制。主要讲述男主小绿（董子健 饰）和女主心蕊（颜卓灵 饰）之间一场真挚却无奈的青春爱情故事，对于亲情和友情的探究，以及距离对爱情的考验，同时关注年轻人对待成长和人生的态度与状态。"
+        },
+         {
+            "id": 12,
+            "name": "零日网络战",
+            "year": 2005,
+            "country": "美国",
+            "type": [
+                "纪录片"
+            ],
+            "imgUrl": "/images/home12.jpg",
+            "language": "英语",
+            "showUpDate": "2016-02-17",
+            "director": ["亚历克斯·吉布尼"],
+            "mainActor": [
+                "乔安妮·塔克","马哈茂德·艾哈迈迪内贾德"
+            ],
+            "contentDetail": "《零日》主要讲述了“震网”计算机蠕虫病毒攻击伊朗核设施的故事：为阻止伊朗核计划，美国等国不仅采取暗杀伊朗核专家等手段，还利用“震网”病毒攻击伊朗核设施，导致浓缩铀离心机转速失控……<br/>2010年，国际信息技术专家首次发现可自我复制的“震网”病毒。据报道，该病毒为美国和以色列为破坏伊朗核计划共同研发，有关计划代号为“奥运会”。“震网”病毒不仅攻击了伊朗核设施，还一度失控，蔓延至全球多国。影片中，知情者透露，“奥运会”计划实际上只是美国“NITRO　ZEUS”网络战行动的一部分，该行动可通过攻击工业、交通、防空、电网等关键设施，令伊朗瞬间瘫痪，且不留下任何证据。        迄今为止，美国电影下载从未承认对别国实施网络攻击，并一再指责其他国家对美国发动网络攻击。导演吉布尼当天在柏林电影节记者会上表示，国际社会已就核生化武器达成有关协议，却对网络武器讳莫如深。网络武器危险异常，希望通过公开讨论，避免网络战可能带来的严重后果"
+        },
+        {
+            "id": 13,
+            "name": "Food Choices",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "纪录片"
+            ],
+            "imgUrl": "/images/home13.jpg",
+            "language": "英语",
+            "showUpDate": "2016",
+            "director": ["Michal Siewierski"],
+            "mainActor": [
+                "Tony Bark","T. Colin Campbell"
+            ],
+            "contentDetail": "This documentary follows filmmaker Michal Siewierski as he explores the impact that food choice has on people s health| the health of our planet and on the lives of other species sharing our world. It looks at many misconceptions about food and diet| offering a new view on these issues."
+        },
+        {
+            "id": 14,
+            "name": "Star Trek Beyond",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "冒险","科幻"
+            ],
+            "imgUrl": "/images/home14.jpg",
+            "language": "英语",
+            "showUpDate": "2016-07-22",
+            "director": ["林诣彬"],
+            "mainActor": [
+                "克里斯·派恩","扎克瑞·昆图"
+            ],
+            "contentDetail": "柯克船长（克里斯·派恩 Chris Pine 饰）和企业号的船员们来到了银河系中未知的一个区域，开始完成他们5年的任务——探索新世界，寻找新物种。却在途中滞留异星，遭遇了当地种族追杀，他们必须找到方法离开这个星球。"
+        },
+        {
+            "id": 15,
+            "name": "蝙蝠侠大战超人",
+            "year": 2016,
+            "country": "美国",
+            "type": [
+                "科幻","动作"
+            ],
+            "imgUrl": "/images/home15.jpg",
+            "language": "英语",
+            "showUpDate": "2016-03-25",
+            "director": ["扎克·施奈德"],
+            "mainActor": [
+                "本·阿弗莱克","亨利·卡维尔"
+            ],
+            "contentDetail": "故事发生在大都会之战18个月后，在那场战斗中许多建筑和市民惨遭波及。因为超人（亨利·卡维尔 饰）帮助人类解决了很多问题而被当做神来膜拜，但超人也因与佐德之战对城市造成的破坏而遭到逮捕和审讯，一度成为都市传说的蝙蝠侠韦恩（本·阿弗莱克 饰）重新出现在人们面前，他似乎正是为了惩罚超人而来。年轻的富豪莱克斯·卢瑟（杰西·艾森伯格 饰）又在二者的矛盾中挑拨离间，神秘的戴安娜·普林斯（盖尔·加朵 饰）也因自己的目的介入其中……"
+        }
+        
+    ]
+}
