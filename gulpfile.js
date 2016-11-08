@@ -47,8 +47,13 @@ gulp.task('webserver', function () {
 
   // 拷贝 index.html 到 build 文件夹
   gulp.task('copy-index', function () {
-    gulp.src('./*.html')
+    gulp.src('./**/*.html')
       .pipe(gulp.dest('./build/'));
+  });
+   // 拷贝 .html 到 build 文件夹
+  gulp.task('copy-html', function () {
+    gulp.src('./src/js/**/*.html')
+      .pipe(gulp.dest('./build/prd/js/'));
   });
   //拷贝 引用的css库 到build
   gulp.task('copy-css',function() {
@@ -59,13 +64,18 @@ gulp.task('webserver', function () {
   gulp.task('copy-js',function() {
     gulp.src('./src/libs/**/*')
       .pipe(gulp.dest('./build/prd/libs/'));
-    gulp.src('./src/js/**/*')
-      .pipe(gulp.dest('./build/prd/js/'));
   });
+  //拷贝 修改的js文件 到build
+  gulp.task('js',function () {
+    gulp.src('./src/js/**/*.js')
+      .pipe(gulp.dest('./build/prd/js/'))
+  })
   // 侦测 文件变化， 执行相应任务
   gulp.task('watch', function () {
     gulp.watch('./*.html', ['copy-index']);
+    gulp.watch('./src/js/**/*.html', ['copy-html']);
     gulp.watch('./src/css/*.scss', ['scss']);
+    gulp.watch('./src/js/**/*.js', ['js']);
   });
 
   // 配置 default 任务，执行任务队列

@@ -22,7 +22,6 @@ backSystem.controller('appCtrl', ['$scope', '$http', '$state', '$timeout', funct
         }
     }
 }]);
-
 backSystem.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
     $stateProvider
         .state('homePG', {
